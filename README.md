@@ -1,6 +1,6 @@
 <!-- Animated Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Huong+Do+👋;Front-End+Developer+💻;Liquid+%2F+JavaScript+Developer+🚀;Always+learning+new+things+🌱" alt="Typing SVG" />
+ 💻
 </h1>
 
 ---
