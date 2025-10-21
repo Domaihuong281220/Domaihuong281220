@@ -15,7 +15,7 @@
 
 ### ⚙️ Tech Stack & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge" />
+  <!-- <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Templating-Liquid-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Framework-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
