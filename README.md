@@ -1,77 +1,74 @@
 <!-- ======================= -->
-<!-- 💫 Wibu x Developer Style GitHub Profile README -->
+<!-- 🛡️ Attack on Titan — Huong Do (Profile README) -->
 <!-- ======================= -->
 
+<p align="center">
+  <!-- Top animated banner (AoT vibe) -->
+  <img src="https://media.tenor.com/0D8G1nQk0r8AAAAC/attack-on-titan-scouts.gif" alt="Attack on Titan banner" width="700"/>
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=✨+Yo!+I'm+Huong+Do+✨;💻+Front-End+Developer+💻;☕+Liquid+%2F+JavaScript+Alchemist+☕;🔥+Half+Dev,+Half+Wibu+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=680&lines=%E2%9A%A1+%E3%80%8CHuong+Do%E3%80%8D+%7C+Front-End+Developer;%E2%9A%A1+Liquid+%2F+JavaScript+Developer;%E2%9A%A1+Survey+Corps+of+the+Web+%E2%98%85" alt="Typing SVG"/>
 </h1>
 
+---
+
+### 🛡️ About Me — Scout on the Web
+- 💼 **Front-End Developer** — I build UI trenches and defend UX from chaotic Titans (a.k.a. bugs).  
+- 🚀 **Role:** Liquid / JavaScript Developer — crafting templates & interactive experiences.  
+- 📚 **Learning:** backend — levelling up to full-stack so I can patrol both client and server walls.  
+- ✨ **Fun fact:** I whisper "advance!" to my console at 2 AM—still waiting for the thunder of victory. 😆
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/16/63/4a/16634a19e3d9ef81057ad7a17db0b2fa.gif" width="250" alt="anime-coding-gif">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280" alt="anime-coding" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
-- 💼 Front-End Developer focused on crafting clean, dynamic, and **sometimes cursed** UIs  
-- 🚀 Currently living life as a **Liquid / JavaScript Developer**  
-- 📚 Learning **backend** so I can finally stop blaming it for every bug 😅  
-- ✨ Fun Fact: I debug more than I sleep, and sometimes whisper “pls work” to my code at 2AM 🕓  
-
+### ⚔️ Tech Arsenal
 <p align="center">
-  <img src="https://media.tenor.com/9yC1kFJkZuEAAAAM/anime-coding.gif" width="300" alt="Coding Anime">
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Templating-Liquid-5B2C6F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version%20Control-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### ⚙️ Tech Stack & Tools
+### 📈 GitHub Recon
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS-FF8C00?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Templating-Liquid-9B59B6?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Version%20Control-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=huongdo&show_icons=true&theme=nightowl" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=huongdo&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/images/3781c6045f08f2c5b9862a604bb2fbc3/tenor.gif?itemid=13695025" width="300" alt="wibu-dev-gif">
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=huongdo&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=huongdo&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huongdo&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huongdo&layout=compact&theme=nightowl" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake (because why not?)
+### 🗺️ Battle Log (Contributions)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
 </p>
 
 ---
 
-### 📫 Contact Me
+### 📫 Contact — Send a Courier
 <p align="center">
-  <a href="mailto:domaihuong.28.12.20@gmail.com"><img src="https://img.shields.io/badge/Email-domaihuong.28.12.20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:0376044480"><img src="https://img.shields.io/badge/Phone-0376044480-0078D7?style=for-the-badge&logo=ios&logoColor=white" /></a>
+  <a href="mailto:domaihuong.28.12.20@gmail.com"><img src="https://img.shields.io/badge/Email-domaihuong.28.12.20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="tel:0376044480"><img src="https://img.shields.io/badge/Phone-0376044480-0A66C2?style=for-the-badge&logo=ios&logoColor=white" alt="phone" /></a>
 </p>
 
 ---
 
-### ⚡ Developer Quote
-> "If it works... don’t touch it. If it doesn’t... blame cache first." — ancient dev proverb 🧙‍♂️
+### 🔥 Motto of the Scout Regiment (Dev-ified)
+> "If we don't change, we won't be able to protect anyone." — so I change my code until it protects users.
 
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/yheo1GGu3FwAAAAM/coding.gif" width="300" alt="Coding GIF">
+  <img src="https://media.tenor.com/images/37f0b4492b3f9d9c4b9b6a1b7a8f6f2f/tenor.gif" width="240" alt="salute" />
+  <br/>
+  ⭐ Thanks for visiting the wall — feel free to join the patrol (follow / star / drop a message)! 🌸
 </p>
-
-⭐️ *Thanks for visiting! May your bugs be few and your commits many.* 🌸
