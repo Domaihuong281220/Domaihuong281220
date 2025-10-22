@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Animated Background Particles -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=header&fontSize=15&fontAlignY=70" />
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
   
   <!-- Floating Animated Elements -->
   <div align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=header&fontSize=15&fontAlignY=70" />
   </div>
   
   <!-- Animated Snake with Enhanced Effects -->
@@ -30,12 +30,12 @@
   
   <!-- Additional Animated Elements -->
   <div align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=header&fontSize=15&fontAlignY=70" />
   </div>
   
   <!-- COOL ANIMATIONS -->
   <div align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome+to+the+Titan+Mode!&fontSize=20&fontAlignY=70" />
   </div>
 </div>
 
@@ -47,10 +47,8 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=My+Arsenal&fontSize=20&fontAlignY=70" />
 </div>
-
----
 
 ### 💢 My Arsenal
 <div align="center">
@@ -84,10 +82,8 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=Battle+Statistics&fontSize=20&fontAlignY=70" />
 </div>
-
----
 
 ### 🕶️ "If you win, you live. If you lose, you die."
 <div align="center">
@@ -115,7 +111,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=header&fontSize=15&fontAlignY=70" />
 </div>
 
 ---
@@ -123,8 +119,8 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=header&fontSize=15&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=header&fontSize=15&fontAlignY=70" />
 </div>
 
 <h3 align="center">🔥 Keep moving forward 🔥</h3>
@@ -135,10 +131,8 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=Connect+with+the+Titan&fontSize=20&fontAlignY=70" />
 </div>
-
----
 
 <div align="center">
   <h3>⚔️ Connect with the Titan ⚔️</h3>
@@ -161,7 +155,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=header&fontSize=15&fontAlignY=70" />
 </div>
 
 ---
@@ -172,7 +166,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=header&fontSize=15&fontAlignY=70" />
 </div>
 
 <div align="center">
@@ -180,5 +174,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=header&fontSize=15&fontAlignY=70" />
 </div>
