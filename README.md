@@ -10,10 +10,6 @@
     <img src="https://i.pinimg.com/originals/c9/d8/85/c9d8853912f46d26f789df70ea9348c3.jpg" alt="Custom Header Image" width="600" />
   </h1>
   
-  <!-- Floating Animated Elements -->
-  <div align="center">
-  </div>
-  
   <!-- Animated Snake with Enhanced Effects -->
   <p align="center">
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -32,15 +28,13 @@
 
 ### ⚔️ About Me
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=⚔️+Front-End+Developer+⚔️;🔥+Crafting+Powerful+UI+&+Animated+Experiences+🔥;🌀+Inspired+by+Attack+on+Titan+🌀;💻+ReactJS+%7C+NextJS+%7C+TailwindCSS+%7C+TypeScript+💻" />
+  🔥 <strong>Front-End Developer</strong> — crafting powerful UI & animated experiences.  
+  🌀 Inspired by Attack on Titan's intensity and discipline.  
+  💻 <strong>ReactJS | NextJS | TailwindCSS | TypeScript</strong>
 </div>
 
 
 ### 💢 My Arsenal
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=🔥+Tech+Stack+%26+Tools+🔥;⚔️+My+Weapons+of+Choice+⚔️;💻+Skills+%26+Technologies+💻" />
-</div>
-
 <div align="center">
   <h3>🔥 Tech Stack & Tools 🔥</h3>
 </div>
@@ -70,10 +64,6 @@
 
 ### 🕶️ "If you win, you live. If you lose, you die."
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=⚔️+Battle+Statistics+⚔️;🔥+GitHub+War+Stats+🔥;💀+Code+Combat+Records+💀" />
-</div>
-
-<div align="center">
   <h3>⚔️ Battle Statistics ⚔️</h3>
 </div>
 
@@ -100,14 +90,10 @@
 
 ---
 
-<div align="center">
-</div>
-
 <h3 align="center">🔥 Keep moving forward 🔥</h3>
 
 <div align="center">
-  <!-- Enhanced Footer Animations -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Devouring+limits...;Breaking+the+walls...;Unleash+your+Titan+within!;Code+like+your+life+depends+on+it!;Never+give+up+the+fight!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Devouring+limits...;Breaking+the+walls...;Unleash+your+Titan+within!;Code+like+your+life+depends+on+it!;Never+give+up+the+fight!;🔥+Keep+moving+forward!+🔥">
 </div>
 
 
