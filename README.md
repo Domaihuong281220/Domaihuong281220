@@ -144,9 +144,6 @@
 <div align="center">
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=20&fontAlignY=70" />
-</div>
 
 <div align="center">
 </div>
