@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <!-- Animated Header with Multiple Effects -->
+  <!-- Animated Header with Custom Image -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=32&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines="You+Have+The+Freedom+To+Fight...";+Eren+Yeager+Mode+Activated!;+Front-End+Dev+⚔️+React+%26+Next.js" alt="Typing Animation" />
+    <img src="https://i.pinimg.com/originals/c9/d8/85/c9d8853912f46d26f789df70ea9348c3.jpg" alt="Custom Header Image" width="600" />
   </h1>
   
   <!-- Floating Animated Elements -->
