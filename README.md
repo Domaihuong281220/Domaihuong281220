@@ -1,51 +1,48 @@
-<!-- 💥 EREN YEAGER MODE: RAGE REBORN 💥 -->
+<!-- 🌑 EREN YEAGER — RAGE MODE: CINEMATIC EDITION -->
 
 <div align="center">
 
-<!-- ⚔️ Animated Typing Intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Kanit&size=35&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=🔥+Keep+Moving+Forward!;💢+Rage+Mode+Activated!;💥+Eren+Yeager+Spirit+Online!" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=The+World+is+Cruel...;But+So+Am+I.;Eren+Yeager+Mode+Activated.🔥" alt="Typing SVG" />
 
-<!-- 🩸 Dynamic Banner (real working SVG) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=header&text=Eren%20Yeager%20Mode%20🔥&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8B0000&height=2" width="100%"/>
+
+<img src="https://github.com/huongdo.png" width="120" style="border-radius:50%; box-shadow: 0 0 20px red;" alt="Avatar"/>
+
+### <span style="color:#ff4d4d; font-family:Orbitron;">🔥 DOMAIHUONG — FRONT-END TITAN 🔥</span>
+
+*“Fight. Rage. Build. Repeat.”*
 
 </div>
 
 ---
 
-### ⚔️ **About Me**
-> *“The world is cruel... but so am I.”* — Eren Yeager
+### ⚔️ About Me
+> “If you win, you live. If you lose, you die. If you don’t fight, you can’t win!” — *Eren Yeager*
 
-I’m a **Front-End Titan Developer**, building immersive digital experiences.  
-When I code, I **rage-transform UI into Titan-level interfaces** ⚡  
+I’m a **Front-End Developer** forging digital experiences with **Titan precision**.  
+I **transform interfaces** with rage-driven energy ⚡ and design-led logic.  
 
-🩸 **Tech Arsenal:**  
-React ⚛️ · Next.js 🕶️ · TailwindCSS 🌪️ · TypeScript ⚔️  
-Animation / Motion Effects ⚡ · API Integration 🌐 · AOT Energy 💀  
+🩸 **Arsenal:**  
+React · Next.js · TailwindCSS · JavaScript  
+Animation / Motion Effects · Backend-in-training
 
 ---
 
-### 💥 **My Stats - Titan Activity Radar**
+### ⚡ Titan Activity Radar
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=huongdo&show_icons=true&theme=dark&title_color=ff4c4c&icon_color=ff4c4c&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=huongdo&theme=dark&ring=ff0000&fire=ff0000&currStreakLabel=ff4c4c&hide_border=true" width="48%" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=huongdo&show_icons=true&theme=radical&hide_border=true&title_color=ff4040&icon_color=ff4040&bg_color=000000&text_color=ffffff" width="48%"/>  
+<img src="https://streak-stats.demolab.com?user=huongdo&theme=dark&ring=ff0000&fire=ff0000&currStreakLabel=ff4d4d&hide_border=true" width="48%"/>
 
 </div>
 
 ---
 
-### 🌪️ **Titan Rage Aura**
+### 🩸 Rage Aura (Live Animation)
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=🔥+TITAN+MODE+ACTIVE+🔥&width=800&height=100" alt="Glitch Rage Banner" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/ItzPradip/AOT-Theme-Banner/main/pulse_red.svg" width="400" alt="Pulsing Core"/>
+
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=%E2%9A%94%EF%B8%8FRage%20Mode%20Engaged%20%F0%9F%94%A5&width=800&height=120" alt="Glitch Rage Banner"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer&text=Tatake!%20Tatake!%20Tatake!&fontColor=ffffff&fontSize=28&animation=fadeIn" />
+
 </div>
-
----
-
-### ⚡ **Transformation Sequence**
-```bash
->>> activate --rage-level 999
->>> walls --breached ✅
->>> humanity --avenged 🩸
->>> titan --ascend ⚡
