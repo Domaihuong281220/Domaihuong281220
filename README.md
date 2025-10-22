@@ -99,19 +99,19 @@
 </div>
 
 <div align="center">
-  <!-- Enhanced GitHub Stats with Animations -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&title_color=ff4c4c&icon_color=ff4c4c&hide_border=true&include_all_commits=true&count_private=true&custom_title=🔥%20GitHub%20Battle%20Stats%20🔥" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&fire=ff4c4c&ring=ff4c4c&hide_border=true&stroke=ff4c4c&currStreakLabel=ff4c4c" />
+  <!-- Working GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Domaihuong281220&show_icons=true&theme=tokyonight&title_color=ff4c4c&icon_color=ff4c4c&hide_border=true&include_all_commits=true&count_private=true&custom_title=🔥%20GitHub%20Battle%20Stats%20🔥" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Domaihuong281220&theme=tokyonight&fire=ff4c4c&ring=ff4c4c&hide_border=true&stroke=ff4c4c&currStreakLabel=ff4c4c" />
 </div>
 
 <div align="center">
-  <!-- Additional Animated Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=ff4c4c&text_color=ffffff&hide_border=true&bg_color=0d1117" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domaihuong281220&layout=compact&theme=tokyonight&title_color=ff4c4c&text_color=ffffff&hide_border=true&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <!-- Animated Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Domaihuong281220&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 <div align="center">
@@ -146,16 +146,16 @@
 
 <div align="center">
   <!-- Social Links with Animated Icons -->
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Domaihuong281220" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/domaihuong281220" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <a href="https://twitter.com/domaihuong281220" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+  <a href="mailto:domaihuong281220@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
