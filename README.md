@@ -28,8 +28,7 @@
 
 ### ⚔️ About Me
 <div align="center">
-  🔥 <strong>Front-End Developer</strong> — crafting powerful UI & animated experiences.  
-  🌀 Inspired by Attack on Titan's intensity and discipline.  
+  🔥 <strong>On that day,</strong> the code remembered the terror of being dominated by bugs... and the shame of failing to deploy.   
   💻 <strong>ReactJS | NextJS | TailwindCSS | TypeScript</strong>
 </div>
 
