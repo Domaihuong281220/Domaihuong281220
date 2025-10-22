@@ -1,42 +1,41 @@
-<!-- EREN RAGE MODE - Animated GitHub Profile README -->
+<!-- 💥 EREN YEAGER MODE: TITAN RAGE EDITION 💥 -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=32&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=“You+Have+The+Freedom+To+Fight...”;+Eren+Yeager+Mode+Activated!;+Front-End+Dev+⚔️+React+%26+Next.js" alt="Typing Animation" />
-</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-### ⚔️ About Me
-🔥 Front-End Developer — crafting powerful UI & animated experiences.  
-🌀 Inspired by Attack on Titan’s intensity and discipline.  
-💻 ReactJS | NextJS | TailwindCSS | TypeScript  
-
----
-
-### 💢 My Arsenal
+<!-- Hero Section -->
 <div align="center">
-  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
+
+<!-- 🔥 Animated Typing Text -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=4000&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=🔥+You+Have+The+Freedom+To+Fight!;💢+Keep+Moving+Forward!;💥+Eren+Yeager+Mode+Activated!" alt="Typing SVG" />
+
+<!-- 🩸 Animated Banner -->
+<img src="https://raw.githubusercontent.com/ItzPradip/AOT-Theme-Banner/main/eren_rage_banner.svg" width="100%" alt="Eren Rage Banner"/>
+
 </div>
 
 ---
 
-### 🕶️ “If you win, you live. If you lose, you die.”
+### ⚔️ **About Me**
+> *“The world is cruel... but so am I.”* — Eren Yeager
+
+I’m a **Front-End Titan Developer**, building immersive digital experiences.  
+When I code, I **rage-transform UI into Titan-level interfaces** ⚡  
+
+🩸 **Tech Arsenal:**  
+React ⚛️ · Next.js 🕶️ · TailwindCSS 🌪️ · TypeScript ⚔️  
+Animation / Motion Effects ⚡ · API Integration 🌐 · AOT Energy 💀  
+
+---
+
+### 💥 **My Stats - Titan Activity Radar**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&title_color=ff4c4c&icon_color=ff4c4c&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&fire=ff4c4c&ring=ff4c4c&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&title_color=ff4c4c&icon_color=ff4c4c&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&ring=ff4c4c&fire=ff4c4c&hide_border=true" width="48%" />
 </div>
 
 ---
 
-<h3 align="center">🔥 Keep moving forward 🔥</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Devouring+limits...;Breaking+the+walls...;Unleash+your+Titan+within!">
-</p>
+### 🌪️ **Rage Aura (Live Animation Layer)**
+```html
+<!-- Add this in your GitHub README using HTML tags -->
+<div align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=🔥%20TITAN%20MODE%20ACTIVE%20🔥&width=800&height=100" alt="Glitch Banner" />
+</div>
