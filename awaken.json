@@ -1,9 +1,9 @@
 {
   "username": "domaihuong281220",
   "layout": "bento",
-  "theme": "cyberpunk",
+  "theme": "matrix",
   "title": "pull-shark",
-  "activity": "arise",
+  "activity": "raid",
   "icons": "brand",
   "motion": "full",
   "timezone": "Asia/Saigon",
@@ -17,6 +17,9 @@
     "figma",
     "wordpress",
     "woocommerce",
-    "dart"
+    "dart",
+    "typescript",
+    "javascript",
+    "docker"
   ]
 }
