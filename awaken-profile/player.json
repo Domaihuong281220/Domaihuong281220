@@ -2,7 +2,7 @@
   "login": "Domaihuong281220",
   "level": 8,
   "overall": "B",
-  "overallPercentile": 0.8236521418744539,
+  "overallPercentile": 0.8237275756538546,
   "layout": "bento",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 461,
+      "value": 462,
       "rank": "A",
-      "percentile": 0.9254471142744236
+      "percentile": 0.9256449615652101
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 461
+      "value": 462
     },
     {
       "id": "unbroken",
@@ -192,5 +192,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-08T04:36:44.704Z"
+  "syncedAt": "2026-10-08T04:39:51.962Z"
 }
