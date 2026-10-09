@@ -1,39 +1,39 @@
 {
   "login": "Domaihuong281220",
-  "level": 8,
-  "overall": "B",
-  "overallPercentile": 0.8237275756538546,
+  "level": 7,
+  "overall": "D",
+  "overallPercentile": 0.5568712791023301,
   "layout": "bento",
   "class": {
     "name": "Blade Master",
     "element": "Lightning",
-    "from": "JavaScript"
+    "from": "TypeScript"
   },
-  "title": "Pull Shark",
+  "title": "Veteran",
   "stats": [
     {
       "code": "STR",
-      "value": 462,
+      "value": 408,
       "rank": "A",
-      "percentile": 0.9256449615652101
+      "percentile": 0.913640138500435
     },
     {
       "code": "AGI",
-      "value": 4,
-      "rank": "C",
-      "percentile": 0.7264678925031302
+      "value": 0,
+      "rank": "E",
+      "percentile": 0
     },
     {
       "code": "INT",
-      "value": 4,
-      "rank": "B",
-      "percentile": 0.843927062688408
+      "value": 0,
+      "rank": "E",
+      "percentile": 0
     },
     {
       "code": "VIT",
-      "value": 3,
-      "rank": "D",
-      "percentile": 0.507696117492914
+      "value": 2,
+      "rank": "E",
+      "percentile": 0.35265963279786033
     },
     {
       "code": "LUK",
@@ -48,12 +48,41 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "overall",
+      "subject": "Overall rank",
+      "from": "B",
+      "to": "D",
+      "at": "2026-10-09T21:37:47.408Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "AGI",
+      "from": "C",
+      "to": "E",
+      "at": "2026-10-09T21:37:47.408Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "INT",
+      "from": "B",
+      "to": "E",
+      "at": "2026-10-09T21:37:47.408Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "D",
+      "to": "E",
+      "at": "2026-10-09T21:37:47.408Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
-      "tier": 1,
-      "value": 3
+      "tier": 0,
+      "value": 0
     },
     {
       "id": "quickdraw",
@@ -62,18 +91,18 @@
     },
     {
       "id": "yolo",
-      "tier": 1,
-      "value": 3
+      "tier": 0,
+      "value": 0
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 462
+      "value": 408
     },
     {
       "id": "unbroken",
       "tier": 0,
-      "value": 3
+      "value": 2
     },
     {
       "id": "night-owl",
@@ -83,12 +112,12 @@
     {
       "id": "early-bird",
       "tier": 0,
-      "value": 2
+      "value": 0
     },
     {
       "id": "weekend-warrior",
       "tier": 0,
-      "value": 7
+      "value": 2
     },
     {
       "id": "gate-opener",
@@ -97,8 +126,8 @@
     },
     {
       "id": "raider",
-      "tier": 1,
-      "value": 3
+      "tier": 0,
+      "value": 0
     },
     {
       "id": "flawless",
@@ -108,7 +137,7 @@
     {
       "id": "healer",
       "tier": 0,
-      "value": 4
+      "value": 0
     },
     {
       "id": "polyglot",
@@ -143,7 +172,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 21
+      "value": 6
     },
     {
       "id": "daily-grinder",
@@ -158,7 +187,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "boss-slayer",
@@ -179,6 +208,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-09",
+        "cleared": 1,
+        "total": 3
+      },
+      {
         "date": "2026-10-08",
         "cleared": 1,
         "total": 3
@@ -192,12 +226,12 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 1,
+    "questsDone": 2,
     "bosses": [],
     "escapes": 1,
     "kinds": [
       "contribute"
     ]
   },
-  "syncedAt": "2026-10-08T22:01:32.461Z"
+  "syncedAt": "2026-10-09T21:37:47.408Z"
 }
