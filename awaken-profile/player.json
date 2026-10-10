@@ -208,6 +208,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-10",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-09",
         "cleared": 1,
         "total": 3
@@ -233,5 +238,5 @@
       "contribute"
     ]
   },
-  "syncedAt": "2026-10-09T21:37:47.408Z"
+  "syncedAt": "2026-10-10T20:33:03.069Z"
 }
