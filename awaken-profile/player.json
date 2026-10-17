@@ -48,36 +48,7 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [
-    {
-      "kind": "overall",
-      "subject": "Overall rank",
-      "from": "B",
-      "to": "D",
-      "at": "2026-10-09T21:37:47.408Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "AGI",
-      "from": "C",
-      "to": "E",
-      "at": "2026-10-09T21:37:47.408Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "INT",
-      "from": "B",
-      "to": "E",
-      "at": "2026-10-09T21:37:47.408Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "D",
-      "to": "E",
-      "at": "2026-10-09T21:37:47.408Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -208,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-17",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-16",
         "cleared": 0,
         "total": 3
@@ -268,5 +244,5 @@
       "contribute"
     ]
   },
-  "syncedAt": "2026-10-16T19:54:50.368Z"
+  "syncedAt": "2026-10-17T19:18:12.879Z"
 }
