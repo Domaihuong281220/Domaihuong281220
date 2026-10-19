@@ -2,7 +2,7 @@
   "login": "Domaihuong281220",
   "level": 7,
   "overall": "D",
-  "overallPercentile": 0.5568712791023301,
+  "overallPercentile": 0.5433184860690976,
   "layout": "bento",
   "class": {
     "name": "Blade Master",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 2,
+      "value": 1,
       "rank": "E",
-      "percentile": 0.35265963279786033
+      "percentile": 0.19027288417987814
     },
     {
       "code": "LUK",
@@ -179,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-19",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-18",
         "cleared": 0,
         "total": 3
@@ -249,5 +254,5 @@
       "contribute"
     ]
   },
-  "syncedAt": "2026-10-18T19:23:55.775Z"
+  "syncedAt": "2026-10-19T21:28:31.707Z"
 }
